@@ -208,7 +208,6 @@ body {
 .headerphoto{
     padding-top: 64px;
     background-image: url("../images/photo1.jpg");
-    background-color: #ffffff;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -286,7 +285,6 @@ padding-left: 7vw;
     height: 310px;
     overflow: hidden;
     margin: 20px 9px 0 9px;
-    box-shadow: black 10px;
     color: white;
   }
   
@@ -324,7 +322,6 @@ padding-left: 7vw;
     flex-direction: column;
     justify-content: space-between;
     width: 330px;
-    box-shadow: #2c292f 20px;
     padding: 8px;
     text-align: center;
 }
